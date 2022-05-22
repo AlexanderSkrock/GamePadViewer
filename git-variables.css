@@ -1,5 +1,5 @@
 :root {
-    --controller-background-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/grass.jpg);
+    --controller-background-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/base.svg);
     --controller-disconnected-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/disconnected.svg);
     --controller-touchpad-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/logo.png);
     --controller-trigger-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/trigger.svg);
