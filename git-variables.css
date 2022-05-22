@@ -1,12 +1,12 @@
 :root {
-    --controller-background-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/base.svg);
-    --controller-disconnected-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/disconnected.svg);
-    --controller-touchpad-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/logo.png);
-    --controller-trigger-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/trigger.svg);
-    --controller-bumper-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/bumper.svg);
-    --controller-meta-pressed-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/meta.svg);
-    --controller-start-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/start-select.svg);
-    --controller-button-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/abxy.svg);
-    --controller-stick-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/stick.svg);
-    --controller-face-image: url(https://raw.githack.com/AlexanderSkrock/GamePadViewer/dieJulez97/images/dpad.svg);
+    --controller-background-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/dieJulez97/images/base.svg);
+    --controller-disconnected-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/dieJulez97/images/disconnected.svg);
+    --controller-touchpad-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/dieJulez97/images/logo.png);
+    --controller-trigger-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/dieJulez97/images/trigger.svg);
+    --controller-bumper-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/dieJulez97/images/bumper.svg);
+    --controller-meta-pressed-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/dieJulez97/images/meta.svg);
+    --controller-start-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/dieJulez97/images/start-select.svg);
+    --controller-button-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/dieJulez97/images/abxy.svg);
+    --controller-stick-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/dieJulez97/images/stick.svg);
+    --controller-face-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/dieJulez97/images/dpad.svg);
 }
