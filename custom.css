@@ -224,11 +224,10 @@
 }
 
 .custom .face.pressed {
-    background-position-y: 52px;
+    background: var(--controller-face-image);
 }
 
 .custom .face {
-    background: var(--controller-face-image);
     position: absolute;
 }
 
